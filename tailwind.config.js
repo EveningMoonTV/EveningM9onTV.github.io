@@ -9,6 +9,7 @@ module.exports = {
       'first-box': '#78EFE8',
       'second-box': '#8AF2EC',
       'third-box': '#B5F8F4',
+      'forth-box': '#78EFE8',
       'footer': '#5DDAD2',
     },
     extend: {},

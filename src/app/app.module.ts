@@ -5,10 +5,10 @@ import { RouterModule } from '@angular/router';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { NavbarComponent } from './navbar/navbar.component';
-import { PrestationsComponent } from './prestations/prestations.component';
+import { PrestationsComponent } from './Pages/prestations/prestations.component';
 import { FooterComponent } from './footer/footer.component';
-import { ContactComponent } from './contact/contact.component';
-import { WelcomeComponent } from './welcome/welcome.component';
+import { ContactComponent } from './Pages/contact/contact.component';
+import { WelcomeComponent } from './Pages/welcome/welcome.component';
 
 @NgModule({
   declarations: [

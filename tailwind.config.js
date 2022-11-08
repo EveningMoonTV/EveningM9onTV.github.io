@@ -5,14 +5,15 @@ module.exports = {
   ],
   theme: {
     colors: {
-      'nav': '#6AE4DD',
-      'first-box': '#78EFE8',
-      'second-box': '#8AF2EC',
-      'third-box': '#B5F8F4',
-      'forth-box': '#78EFE8',
-      'footer': '#5DDAD2',
+      'nav': '#95FFFF',
+      'nav-hover': '#b3ffff',
+      'first-box': '#ccffff',
+      'second-box': '#99ffff',
+      'third-box': '#80ffff',
+      'forth-box': '#4dffff',
+      'fifth-box': '#1affff',
+      'footer': '#95FFFF',
     },
-    extend: {},
-  },
-  plugins: [],
+    extend: {}
+  }
 }
